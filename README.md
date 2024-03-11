@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<h1> I'm hwang </h1>
-<!--
-**Hwang9170/Hwang9170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Hi Im hwang
+<h1> I'm hwang ! </h1>
+<a href= "https://simpleicons.org/icons/swift.svg" target="_blank"><img src="https://img.shields.io/badge/000000? style=flat,&logo=swift&logoColor=000000"/></a>
+- 🏫 university (대학) : Jeonbuk National University [ Department of Business Administration ]
+- 
