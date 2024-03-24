@@ -25,7 +25,7 @@
 
 <hr>
 
-![HWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=aHwang9170&show_icons=true&theme=black)
+![HWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang9170&show_icons=true&theme=black)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang9170&layout=compact)
 
