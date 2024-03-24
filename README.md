@@ -26,4 +26,7 @@
 <hr>
 
 ![Hwang9170GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwang9170&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Hwang9170=anuraghazra&layout=compact)
+
 ### KING HWANG
