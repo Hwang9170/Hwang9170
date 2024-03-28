@@ -6,7 +6,7 @@
 
 
 
-- 🏫 university : Jeonbuk National University (2024 ~ ) [ Department of Business Administration ]
+- 🏫 university :<b> Jeonbuk National University</b> (2024 ~ ) [ Department of Business Administration ]
 - 🏫 대학 : <b>전북대학교</b> (2024 ~) [경영학과]
 <hr>
 <h1> 수상 내역 </h1>
