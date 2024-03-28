@@ -3,6 +3,7 @@
 <h1> I'm hwang ! </h1>
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
 <img src = "https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26"/>
+<img src = "https://img.shields.io/badge/Style%20Sheet-CSS-informational?style=flat&logo=CSS3&color=1572B6"/>
 
 
 
