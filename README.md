@@ -34,4 +34,4 @@
 
 ### KING HWANG
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&text=I'm%HWANG!&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=slice&text=hwang)
