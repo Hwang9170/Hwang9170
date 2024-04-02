@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KING%20HWANG&fontSize=90" />
 <h1> I'm Hwang ! </h1>
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
 <img src = "https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26"/>
