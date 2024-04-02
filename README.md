@@ -34,4 +34,4 @@
 
 ### KING HWANG
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=hwang)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Hwang)
