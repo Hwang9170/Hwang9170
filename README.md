@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=&customColorList=0,2,3&height=300&section=header&text=KING%20HWANG&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=&customColorList=0,0,193&height=300&section=header&text=KING%20HWANG&fontSize=90" />
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
