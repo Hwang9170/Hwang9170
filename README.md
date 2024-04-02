@@ -1,4 +1,4 @@
-<header> <img src="https://capsule-render.vercel.app/api?type=wave&color=&customColorList=4&height=300&section=header&text=KING%20HWANG&fontSize=90"&animation=fadeIn /></header>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
