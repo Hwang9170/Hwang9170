@@ -36,4 +36,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&fontColor=FFE13C&text=Have_a_nice_day~!&color=_custom_gradient)
 <br> 
-But this is for me, so I'm going to have a great day today !![just kidding. Have a nice day, too!]
+But this is for me, so I'm going to have a great day today !!
+
+
+<br> <br> [just kidding. Have a nice day, too!]
