@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=KING HWANG &animation=blink)
+![header](https://capsule-render.vercel.app/api?text=KING_HWANG&animation=blink)
 
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
