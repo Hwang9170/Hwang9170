@@ -35,3 +35,5 @@
 ### KING HWANG
 
 ![header](https://capsule-render.vercel.app/api?type=rect&fontColor=FFE13C&text=Have_a_nice_day~!&color=_custom_gradient)
+But this is for me, so I'm going to have a great day today !!
+[just kidding. Have a nice day, too!]
