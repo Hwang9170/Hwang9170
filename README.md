@@ -1,5 +1,5 @@
 <header> <img src="https://capsule-render.vercel.app/api?type=wave&color=&customColorList=0,0,0&height=300&section=header&text=KING%20HWANG&fontSize=90" /></header>
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
+
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
