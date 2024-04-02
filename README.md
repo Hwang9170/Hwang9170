@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?text=KING_HWANG&animation=blink&)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
@@ -34,3 +33,5 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hwang9170&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Hwang9170(Hwang)'s github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang9170&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="Hwang9170(Hwang)'s language status"/> |
 
 ### KING HWANG
+
+![header](https://capsule-render.vercel.app/api?text=I'm%HWANG!&fontSize=20&rotate=-30)
