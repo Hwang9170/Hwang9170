@@ -30,7 +30,7 @@
 <hr>
 <h1> 활동 내역 </h1>
 
-1). 교내 커뮤니티 어플리케이션 개발 ([BST 커뮤니티](https://play.google.com/store/apps/details?id=appinventor.ai_bst1119.BST2)<br>
+1). 교내 커뮤니티 어플리케이션 개발 [BST 커뮤니티](https://play.google.com/store/apps/details?id=appinventor.ai_bst1119.BST2)<br>
 2). [지식 블로그](https://blog.naver.com/jkimg4595) 운영 - 독서내용 기록 / 외국어 학습 기록(스페인어) / 프로그래밍 학습 기록 (C언어, SWIFT, WINDOWS API, 기타 코딩)  / 비평문작성 (신문 스크랩) <br>
 3). 익산 청소년 참여위원회 부위원장(2022) - 청소년 창업 교육 확대 정책 제안<br>
 4). 교내 일일 카드뉴스 (미니신문) 제작 및 배포 - [오늘의 관광고](https://instagram.com/bst_today?igshid=YmMyMTA2M2Y=) (22.05.23 - 23.02.08) <br>
