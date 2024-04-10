@@ -6,7 +6,7 @@
 <img src = "https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26"/>
 <img src = "https://img.shields.io/badge/Style%20Sheet-CSS-informational?style=flat&logo=CSS3&color=1572B6"/>
 
-
+<hr>
 
 - 🏫 university :<b> Jeonbuk National University</b> (2024 ~ )  [ Department of Business Administration ]
 - 🏫 대학 : <b>전북대학교</b> (2024 ~) [경영학과]
