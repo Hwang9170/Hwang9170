@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=_custom_gradient&fontColor=FFE13C&text=KING_HWANG&animation=blink&)
 
-<h1>[my App](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)</h1>
+<b>[my App](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)</b>
+<hr>
 ### Hi there 👋
 <h1> I'm Hwang ! </h1>
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
