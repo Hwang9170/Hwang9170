@@ -42,6 +42,7 @@
 8). 부산시 고등학생 대표 협의회 참여 (2022-2023) <br>
 9). 부산 직업 교육 박람회 프로그램 기획 참여 - [Z기획단](https://busanmbc.co.kr/02_tvp/tvp02_view.asp?idx=12) (2022)<br>
 10. 자기 소개 어플 개발 [황광호 HWANG ][(https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)]
+11. 운세 어플 개발 [운세 판독기 ][https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.GWANG)]
 
 <hr>
 
