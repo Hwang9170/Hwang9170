@@ -56,6 +56,15 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hwang9170&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Hwang9170(Hwang)'s github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang9170&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="Hwang9170(Hwang)'s language status"/> |
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/Hwang9170?pet-id=586390995711905454"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ### KING HWANG
 
 ![header](https://capsule-render.vercel.app/api?type=rect&fontColor=FFE13C&text=Have_a_nice_day~!&color=_custom_gradient)
