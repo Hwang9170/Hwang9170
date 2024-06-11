@@ -11,7 +11,8 @@
 <img src = "https://img.shields.io/badge/Style%20Sheet-CSS-informational?style=flat&logo=CSS3&color=1572B6"/>
 <hr> 
 <hr>
-
+<h1> 특이사항</h1>
+<h2> 랩을 아주 잘함 ㅋ</h2>
 
 - 🏫 university :<b> Jeonbuk National University</b> (2024 ~ )  [ Department of Business Administration ]
 - 🏫 대학 : <b>전북대학교</b> (2024 ~) [경영학과]
@@ -35,22 +36,6 @@
 
 <b> [2024]</b>
 - 전북 지역 PSST 창업 캠프 대상 (1위)
-
-<hr>
-<h1> 활동 내역 </h1>
-
-1). 교내 커뮤니티 어플리케이션 개발 [BST 커뮤니티](https://play.google.com/store/apps/details?id=appinventor.ai_bst1119.BST2)<br>
-2). [지식 블로그](https://blog.naver.com/jkimg4595) 운영 - 독서내용 기록 / 외국어 학습 기록(스페인어) / 프로그래밍 학습 기록 (C언어, SWIFT, WINDOWS API, 기타 코딩)  / 비평문작성 (신문 스크랩) <br>
-3). 익산 청소년 참여위원회 부위원장(2022) - 청소년 창업 교육 확대 정책 제안<br>
-4). 교내 일일 카드뉴스 (미니신문) 제작 및 배포 - [오늘의 관광고](https://instagram.com/bst_today?igshid=YmMyMTA2M2Y=) (22.05.23 - 23.02.08) <br>
-5). KSD 꿈성장 장학사업 장학생 2회 연속 선정 및 교내 경제 스터디 참여 (KRX 금융 교육 수료) <br>
-6). 기업수요 연계 실무 프로젝트 참여 (호텔 산업 - 농심 호텔) <br>
-7). 서울대-교보교육재단 2023 창의 리더십 <체.인.지> 겨울 아카데미 이수 <br>
-8). 부산시 고등학생 대표 협의회 참여 (2022-2023) <br>
-9). 부산 직업 교육 박람회 프로그램 기획 참여 - [Z기획단](https://busanmbc.co.kr/02_tvp/tvp02_view.asp?idx=12) (2022)<br>
-10. 자기 소개 어플 개발 [황광호 HWANG ](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)<br>
-11. 운세 어플 개발 [운세 판독기 ](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.GWANG)
-12.--
 
 <hr>
 
