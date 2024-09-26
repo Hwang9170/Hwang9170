@@ -47,13 +47,11 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Hwang9170?pet-id=597067928295996662"
-    width="100"
-    height="100"
-  />
-</a>
-  
+<img
+  src="https://render.gitanimals.org/farms/Hwang9170"
+  width="600"
+  height="300"
+/>
 </a>
 
 
