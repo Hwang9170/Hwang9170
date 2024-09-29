@@ -1,7 +1,6 @@
 
 
 <b>>>> [my App](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)</b><br>
-[AI900](https://www.credly.com/badges/893b7246-c171-4c43-aa78-4bcc6b6229dc/public_url)
 
 <hr>
 <h2>Hi there 👋</h2>
