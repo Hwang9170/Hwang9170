@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=_custom_gradient&fontColor=FFE13C&text=KING_HWANG&animation=blink&)
 
 
 <b>>>> [my App](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)</b><br>
@@ -7,15 +6,9 @@
 <hr>
 <h2>Hi there 👋</h2>
 <h1> I'm Hwang ! </h1>
-<img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=#F05138" />
-<img src = "https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=HTML5&color=E34F26"/>
-<img src = "https://img.shields.io/badge/Style%20Sheet-CSS-informational?style=flat&logo=CSS3&color=1572B6"/>
 <hr> 
-<pre> 안녕하세요 황광호 입니다. 반갑습니다 !!</pre
+<pre> 안녕하십니까 황광호 입니다.!</pre
 <hr>
-<h1> 특이사항</h1>
-<h2> 랩을 아주 잘함 ㅋ</h2>
-
 - 🏫 university :<b> Jeonbuk National University</b> (2024 ~ )  [ Department of Business Administration ]
 - 🏫 대학 : <b>전북대학교</b> (2024 ~) [경영학과]
 <hr>
