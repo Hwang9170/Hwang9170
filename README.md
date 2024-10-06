@@ -8,7 +8,7 @@
 <hr> 
 <pre> 안녕하십니까 황광호 입니다.!</pre
 <hr>
-- 🏫 university :<b> Jeonbuk National University</b> (2024 ~ )  [ Department of Business Administration ]
+- 🏫 university :<b> Jeonbuk National University</b> (2024 ~ )  [ Department of Business Administration ]<br>
 - 🏫 대학 : <b>전북대학교</b> (2024 ~) [경영학과]
 <hr>
 
