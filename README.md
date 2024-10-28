@@ -1,7 +1,4 @@
 
-
-<b>>>> [my App](https://play.google.com/store/apps/details?id=appinventor.ai_jkimg7133.HWANG)</b><br>
-
 <hr>
 <h2>Hi there 👋</h2>
 <h1> I'm Hwang ! </h1>
