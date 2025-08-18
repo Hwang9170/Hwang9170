@@ -6,5 +6,5 @@
 
 
 
-<br> <br> [Have a nice day]
+<br> <br> Have a nice day
 <HWANG>
