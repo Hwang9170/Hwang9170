@@ -6,6 +6,8 @@
 
 <p>
   <a href="https://hwang0415.vercel.app">Portfolio</a>
+  ·
+  <a href="https://hwang0415.vercel.app/CV.pdf">CV</a>
 </p>
 
 <br><br>
