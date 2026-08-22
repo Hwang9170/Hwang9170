@@ -1,7 +1,15 @@
-<h1> Hi I'm Hwang ! </h1>
+<h1>Hi, I'm Hwang!</h1>
 
+<p>
+  Software Developer · AI · Entrepreneurship
+</p>
 
+<p>
+  <a href="https://hwang0415.vercel.app">Portfolio</a>
+</p>
 
+<br><br>
 
-<br> <br> Have a nice day
+Have a nice day
+
 <HWANG>
